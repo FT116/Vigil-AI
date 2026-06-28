@@ -1,0 +1,17 @@
+streamlit run app/streamlit_app.ppandas
+numpy
+scikit-learn
+torch
+transformers
+datasets
+evaluate
+accelerate
+matplotlib
+seaborn
+streamlit
+joblib
+langdetect
+deep-translator
+python-dotenv
+requests
+pillow
